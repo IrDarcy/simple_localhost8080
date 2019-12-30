@@ -3,4 +3,4 @@ A simple localhost server running on port 8080 and made with flask
 
 Just type in your terminal:
 
-$ python hosts.py
+$ python host.py
